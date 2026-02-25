@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffdbe4&height=200&text=HyunJu&fontAlign=70&stroke=b37f8c&strokeWidth=3">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffdbe4&height=200&text=HyunJu&fontColor=b37f8c&fontAlign=50">
